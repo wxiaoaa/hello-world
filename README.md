@@ -1,2 +1,3 @@
 # hello-world
-First GitHub repository
+Hi there!
+A fresh hand in data science. 
